@@ -23,3 +23,5 @@ This is a simple 8-bit CPU, only supports 5 instructions
              (B <- A - B)
     
     5. JMP = uncoditional jump to address specified
+
+![ezgif-2-3c35eb53ed](https://user-images.githubusercontent.com/84563214/156828120-ff36e166-1d86-4955-ba7e-a75fca3fb98b.gif)
