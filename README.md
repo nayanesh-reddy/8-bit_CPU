@@ -13,7 +13,8 @@ This is a simple 8-bit CPU, only supports 5 instructions
 
     1. LDA = loads a value into the A-register from the address specified.
 
-    2. ADD = loads a value into the B-register from the address specified, adds the contents of register A and B and place the result in A-register. 
+    2. ADD = loads a value into the B-register from the address specified, 
+             adds the contents of register A and B and place the result in A-register. 
              (A <- A + B)
     
     3. OUT = displays the content present in the A-register using hex-digit display
